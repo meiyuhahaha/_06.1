@@ -1,0 +1,15 @@
+.showRange{
+  background: gold;
+  padding:20px 20px;
+  border: 6px dotted yellow;
+}
+
+.row div{
+  border: 1px solid red;
+}
+
+.row div{
+  border: 6px solid orange;
+  height:80px;
+  background: yellow;
+}
